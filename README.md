@@ -36,6 +36,7 @@ Built with ❤️ by [Keerthana Ravichandran](https://www.linkedin.com/in/keerth
 
 ---
 💡 Use Cases
+
 🌺 AI therapists and emotional support bots
 
 📱 Sentiment-aware social media tools
@@ -43,6 +44,7 @@ Built with ❤️ by [Keerthana Ravichandran](https://www.linkedin.com/in/keerth
 📚 Education & emotional feedback systems
 
 🎭 Emotion-sensitive storytelling interfaces
+
 ---
 
 ## 🚀 How to Run Locally
