@@ -3,7 +3,7 @@
 
 EmoSense is a compassionate AI system designed to sense, classify, and gently respond to human emotions in text. It bridges the gap between emotional intelligence and artificial intelligence—aligning with ethical, empathetic, and human-first machine learning design.
 
-Built with ❤️ by [Keerthana Ravichandran](https://www.linkedin.com/in/keerthiravichandran) as part of **Project Deiviki** under **Karunai Labs**.
+Built with ❤️ by [Keerthana Ravichandran](https://www.linkedin.com/in/keerthi-chandran-891408100/)
 
 ---
 
