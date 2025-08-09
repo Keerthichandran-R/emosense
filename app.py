@@ -3,7 +3,8 @@ import joblib
 from utils.predict import predict_emotion, get_sacred_response
 
 # Load trained emotion model
-model = joblib.load("models/emotion_model.pkl")
+model = joblib.load("model/model.pkl")  # instead of models/emotion_model.pkl
+
 
 # Streamlit web app
 st.set_page_config(page_title="EmoSense 🌿", page_icon="🌸")
